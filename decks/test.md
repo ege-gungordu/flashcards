@@ -1,26 +1,18 @@
 ---
 deckId: c4ccf347-afb8-4b32-8d8a-16c753c68b75
 title: test
-description: this is a test deck
+description: this is a test deckd
 version: 1.0.0
 created: 2025-11-10
 modified: 2025-11-10
-cardCount: 2
+cardCount: 1
 ---
 
-## my card
+## test3
 
 ### Front
-front1
+111
 
 ### Back
-back1
-
-## a card
-
-### Front
-front3
-
-### Back
-back3
+111
 
