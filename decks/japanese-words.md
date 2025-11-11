@@ -5,16 +5,8 @@ description:
 version: 1.0.0
 created: 2025-11-10
 modified: 2025-11-11
-cardCount: 177
+cardCount: 176
 ---
-
-## 単語
-
-### Front
-単語
-
-### Back
-<b>読み</b> <br><br> 意味 <br><br> 例文: 例文
 
 ## 厳正
 
