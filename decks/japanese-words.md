@@ -1,10 +1,11 @@
 ---
 deckId: d8d487f2-944b-496e-b780-ec177b9cc07e
 title: Japanese words
-description: 
+description: パット出てこない・初めて聞いた・聞き取れなかった日本語
+maxNewCardsPerDay: 10
 version: 1.0.0
 created: 2025-11-10
-modified: 2025-11-11
+modified: 2025-11-12
 cardCount: 176
 ---
 
