@@ -15,7 +15,11 @@ cardCount: 55
 一時間ほど走った海岸沿いにそれはある。
 
 ### Back
-<b>海岸</b> かいがん <br><br> 海や湖などの岸辺 <br><br> <small>アリアドネの声 | ページ 9</small>
+<b>海岸</b> かいがん <br><br> 海や湖などの岸辺 <br>
+
+<img src="https://niijima-info.jp/cms24/wp-content/uploads/2025/01/03-113.jpg" />
+
+<br> <small>アリアドネの声 | ページ 9</small>
 
 ## card-1762909363056-1
 
@@ -23,7 +27,9 @@ cardCount: 55
 ミサイルのように突き出した岬の下に存在している
 
 ### Back
-<b>岬</b> みさき <br><br> 陸地が細長く海に突き出た所 <br><br> <small>アリアドネの声 | ページ 9</small>
+<b>岬</b> みさき <br><br> 陸地が細長く海に突き出た所 <br>
+<img src="https://www.travelwith.jp/edgy-travel/wp-content/uploads/sites/32/2021/10/ee1bf665891bb018e847d954252f553f.jpg" />
+<br> <small>アリアドネの声 | ページ 9</small>
 
 ## card-1762909363056-2
 
@@ -31,7 +37,10 @@ cardCount: 55
 いつもは海の中だが、干潮の時だけゲームの隠れキャラのようにぽっかり顔を出す。
 
 ### Back
-<b>干潮</b> かんちょう <br><br> 潮が引いて海面が低くなること <br><br> <small>アリアドネの声 | ページ 9</small>
+<b>干潮</b> かんちょう <br><br> 潮が引いて海面が低くなること <br>
+<img src="https://assets.st-note.com/production/uploads/images/28452790/picture_pc_d0d816293924dc950c72da4d7de26ae7.png?width=2000&height=2000&fit=bounds&quality=85" />
+<img src= "https://www.miyajima.or.jp/new/wp-content/uploads/2022/11/DSC_0761-scaled.jpg" />
+<br> <small>アリアドネの声 | ページ 9</small>
 
 ## card-1762909363056-3
 
@@ -39,11 +48,15 @@ cardCount: 55
 兄貴と俺は、シングルマザーで日頃働き詰めの母親に新鮮な海の幸をプレゼントするために、たびたび人目を盗んでその穴場に足を運んでいたのだ。
 
 ### Back
-<b>海の幸</b> うみのさち <br><br> 海でとれる魚介類などの食べ物 <br><br> <small>アリアドネの声 | ページ 9</small>
+<b>海の幸</b> うみのさち <br><br> 海でとれる魚介類などの食べ物 <br>
+<img src="https://hamadouraku.com/common/img/cuisine/lead.jpg" />
+<br> <small>アリアドネの声 | ページ 9</small>
 
 ## card-1762909363056-4
 
 ### Front
+<b>人目を盗む</b><br><br>
+
 兄貴と俺は、シングルマザーで日頃働き詰めの母親に新鮮な海の幸をプレゼントするために、たびたび人目を盗んでその穴場に足を運んでいたのだ。
 
 ### Back
@@ -68,6 +81,7 @@ cardCount: 55
 ## card-1762909363056-7
 
 ### Front
+<b>引き潮</b><br><br>
 引き潮から一転、満ち始めた海を見て、俺は岩の上で磯遊びの手網を握りながら呟く。
 
 ### Back
@@ -76,14 +90,18 @@ cardCount: 55
 ## card-1762909363056-8
 
 ### Front
+<b>磯遊び</b><br><br>
 俺は岩の上で、磯遊び用の手網をにぎりながらつぶやく。
 
 ### Back
-<b>磯遊び</b> いそあそび <br><br> 海岸の岩場で貝や海の生き物をとって遊ぶこと <br><br> <small>アリアドネの声 | ページ 11</small>
+<b>磯遊び</b> いそあそび <br><br> 海岸の岩場で貝や海の生き物をとって遊ぶこと <br>
+<img src="https://fuku-iro.jp/lsc/upfile/article/0000/0136/136_1_l.jpg" />
+<br> <small>アリアドネの声 | ページ 11</small>
 
 ## card-1762909363056-9
 
 ### Front
+<b>手網</b><br><br>
 俺は岩の上で、磯遊び用の手網をにぎりながらつぶやく。
 
 ### Back
